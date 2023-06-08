@@ -1,0 +1,99 @@
+.bg {
+  background-color: white;
+  border: 1px solid black;
+  width: 100%;
+  height: 60vh;
+  margin-top: 50px;
+  border: 1px solid #fafaff;
+  border-radius: 10px;
+}
+.bg #inp {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.bg #inp h3 {
+  margin-bottom: 50px;
+}
+.bg #inp p {
+  font-size: 20px;
+  color: #4b0e0e;
+  font-style: italic;
+}
+.bg #inp #as {
+  width: 100%;
+  height: 45px;
+  margin-bottom: 30px;
+}
+.bg #inp #as1 {
+  width: 100%;
+  height: 45px;
+  margin-bottom: 30px;
+}
+.bg #inp #as2 {
+  width: 100%;
+  height: 45px;
+  margin-bottom: 30px;
+}
+.bg #aaa {
+  width: 40%;
+  margin-top: 50px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.bg #aaa .h-one {
+  padding: 10px;
+  margin-bottom: 30px;
+  font-weight: bold;
+  color: black;
+  border: 10px double red;
+}
+.bg #aaa p {
+  color: orangered;
+  font-size: 25px;
+}
+.bg #aaa #cls {
+  width: 80%;
+  height: 5vh;
+  background-color: #f5f7f7;
+  border-radius: 5px;
+  border: 1px double black;
+  color: blue;
+  overflow: hidden;
+}
+.bg #aaa #mth {
+  overflow: hidden;
+  width: 80%;
+  height: 5vh;
+  background-color: #f5f7f7;
+  border-radius: 5px;
+  border: 1px double black;
+  color: blue;
+  margin-bottom: 30px;
+}
+.bg #aaa #btn {
+  width: 40%;
+  padding: 10px 20px;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+#rf {
+  background-color: rebeccapurple;
+  color: pink;
+  font-size: 20px;
+  padding: 10px 10px;
+  text-align: center;
+  margin: 0% 45%;
+  border-radius: 10px;
+  display: none;
+}
+
+body {
+  background-color: #f5f7f7;
+}/*# sourceMappingURL=style.css.map */
